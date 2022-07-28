@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="514a4232-bacb-4963-96ab-0b2c1d36a74b" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/GridBagLayoutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
+    <list default="true" id="514a4232-bacb-4963-96ab-0b2c1d36a74b" name="Changes" comment="Added skeleton of the app, I'll have to look up how do I create pagination, because I don't really know how to do it yet">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GridBagLayoutDemo.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659029066785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java GUI Tutorial #14 - GridBagLayout Manager In Java GUI Swing Explained">
+      <created>1659035172733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659035172733</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +88,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Java GUI Tutorial #14 - GridBagLayout Manager In Java GUI Swing Explained" />
+    <MESSAGE value="Added skeleton of the app, I'll have to look up how do I create pagination, because I don't really know how to do it yet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added skeleton of the app, I'll have to look up how do I create pagination, because I don't really know how to do it yet" />
   </component>
 </project>

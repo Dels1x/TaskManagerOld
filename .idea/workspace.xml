@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="514a4232-bacb-4963-96ab-0b2c1d36a74b" name="Changes" comment="Added skeleton of the app, I'll have to look up how do I create pagination, because I don't really know how to do it yet">
-      <change afterPath="$PROJECT_DIR$/src/App.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+    <list default="true" id="514a4232-bacb-4963-96ab-0b2c1d36a74b" name="Changes" comment="java form">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659036871764</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="java form">
+      <created>1659038180148</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659038180148</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +114,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="Java GUI Tutorial #14 - GridBagLayout Manager In Java GUI Swing Explained" />
     <MESSAGE value="Added skeleton of the app, I'll have to look up how do I create pagination, because I don't really know how to do it yet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added skeleton of the app, I'll have to look up how do I create pagination, because I don't really know how to do it yet" />
+    <MESSAGE value="java form" />
+    <option name="LAST_COMMIT_MESSAGE" value="java form" />
   </component>
 </project>

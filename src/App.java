@@ -3,14 +3,31 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class App {
-    int i = 0;
+
     private JButton clickHereButton;
     private JPanel panelMain;
-    private JScrollBar scrollBar1;
+    private JPanel landingPanel;
+    private JPanel homePanel;
+    private JLabel welcomeLabel;
+    private JButton enterButton;
+    private JButton backButton;
+    private JButton goButton;
 
     public App() {
-        clickHereButton.addActionListener(e -> {
-            i++;
+
+        enterButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                landingPanel.setVisible(false);
+                homePanel.setVisible(true);
+            }
+        });
+        backButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                landingPanel.setVisible(true);
+                homePanel.setVisible(false);
+            }
         });
     }
 

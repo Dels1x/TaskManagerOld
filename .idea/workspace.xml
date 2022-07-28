@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="514a4232-bacb-4963-96ab-0b2c1d36a74b" name="Changes" comment="java form">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+    <list default="true" id="514a4232-bacb-4963-96ab-0b2c1d36a74b" name="Changes" comment="Java - How to change JPanels">
+      <change afterPath="$PROJECT_DIR$/src/TaskManagerApp.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskManagerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="App" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="TaskManager" />
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659038180148</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Java - How to change JPanels">
+      <created>1659040324112</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659040324112</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +122,7 @@
     <MESSAGE value="Java GUI Tutorial #14 - GridBagLayout Manager In Java GUI Swing Explained" />
     <MESSAGE value="Added skeleton of the app, I'll have to look up how do I create pagination, because I don't really know how to do it yet" />
     <MESSAGE value="java form" />
-    <option name="LAST_COMMIT_MESSAGE" value="java form" />
+    <MESSAGE value="Java - How to change JPanels" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java - How to change JPanels" />
   </component>
 </project>

@@ -108,11 +108,13 @@ public class MainFrame extends JFrame implements ActionListener {
             completeButton.setFocusable(false);
             completeButton.setBackground(new Color(0x222222));
             completeButton.setForeground(Color.white);
+            completeButton.addActionListener(this);
 
             deleteButton.setIcon(deleteIcon);
             deleteButton.setFocusable(false);
             deleteButton.setBackground(new Color(0x222222));
             deleteButton.setForeground(Color.white);
+            deleteButton.addActionListener(this);
 
             label.setForeground(Color.white);
             label.setFont(new Font("Consolas", Font.PLAIN, 20));

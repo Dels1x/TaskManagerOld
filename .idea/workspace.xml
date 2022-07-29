@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="514a4232-bacb-4963-96ab-0b2c1d36a74b" name="Changes" comment="Start of the 2nd day. Switch panels functionality">
+    <list default="true" id="514a4232-bacb-4963-96ab-0b2c1d36a74b" name="Changes" comment="Some progress :)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainFrame.form" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskManagerApp.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskManagerApp.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskManagerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskManagerApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659087877204</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Some progress :)">
+      <created>1659102505730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659102505730</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +143,7 @@
     <MESSAGE value="Java - How to change JPanels" />
     <MESSAGE value="The end of the first day" />
     <MESSAGE value="Start of the 2nd day. Switch panels functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start of the 2nd day. Switch panels functionality" />
+    <MESSAGE value="Some progress :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some progress :)" />
   </component>
 </project>

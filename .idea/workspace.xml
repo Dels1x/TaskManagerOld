@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="514a4232-bacb-4963-96ab-0b2c1d36a74b" name="Changes" comment="Java - How to change JPanels">
-      <change afterPath="$PROJECT_DIR$/src/TaskManagerApp.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskManagerApp.java" afterDir="false" />
+    <list default="true" id="514a4232-bacb-4963-96ab-0b2c1d36a74b" name="Changes" comment="The end of the first day">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskManagerApp.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskManagerApp.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskManagerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskManagerApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +22,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.txt" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -33,12 +31,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="App" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="App" />
@@ -103,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659040324112</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="The end of the first day">
+      <created>1659040596113</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659040596113</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +128,7 @@
     <MESSAGE value="Added skeleton of the app, I'll have to look up how do I create pagination, because I don't really know how to do it yet" />
     <MESSAGE value="java form" />
     <MESSAGE value="Java - How to change JPanels" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java - How to change JPanels" />
+    <MESSAGE value="The end of the first day" />
+    <option name="LAST_COMMIT_MESSAGE" value="The end of the first day" />
   </component>
 </project>
